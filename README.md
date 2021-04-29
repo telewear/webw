@@ -1,6 +1,5 @@
-## Telegram Web K
-Based on Webogram, patched and improved. Available for everyone here: https://webk.telegram.org/
-
+## Telegram Web W
+Based on [Telegram Web K](https://github.com/morethanwords/tweb), but optimized for smart watches.
 
 ### Developing
 Install dependencies with:
