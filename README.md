@@ -1,3 +1,7 @@
+Telegram Web W is discontinued.
+
+---
+
 ## Telegram Web W
 Based on [Telegram Web K](https://github.com/morethanwords/tweb), but optimized for smart watches.
 
